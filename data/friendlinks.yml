@@ -1,12 +1,15 @@
-- title: 个人博客2
-  url: https://miyi23.netlify.app/
-  description: 个人博客网站2
-- title: geek
-  url: https://bevis23.github.io
-  description: bevis23 & 网址导航
-- title: 个人博客1
-  url: https://bevis23.github.io
-  description: 个人博客网站
+- title: bevis23 blog
+  url: https://miyi23.top/
+  description: 1
+- title: miyi23 blog
+  url: https://blog.miyi23.top/
+  description: 2
+- title: GeekHub
+  url: https://gh.miyi23.top/
+  description: 3
+- title: 书签合集
+  url: https://shelf.miyi23.top/
+  description: 4
 - title: 星空海棠
   url: http://xkht.top/
   description: 后期人的导航

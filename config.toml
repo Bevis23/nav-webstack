@@ -1,4 +1,4 @@
-baseURL               = "https://miyi23.github.io"
+baseURL               = "https://nav.miyi23.top/"
 languageCode          = "zh-CN"
 title                 = "宓翊导航"
 theme                 = "WebStack-Hugo"
@@ -11,9 +11,9 @@ publishDir            = "public"					# 站点静态文件保存目录
 [params]
     author        = "miyi23"
     description   = "Webstack-Hugo 网址导航"
-    upload        = "https://flowus.cn/bevis23/03a3b5aa-d015-4f87-8c1b-4fb7fbf07262"  # 左侧导航栏的"网站提交"
-    about         = "https://flowus.cn/bevis23/share/03a3b5aa-d015-4f87-8c1b-4fb7fbf07262"	# 左侧导航栏的"关于导航"页面(./about)
-    repository    = "https://github.com/shenweiyan/WebStack-Hugo"  
+    upload        = "mailto:miyi23seek@outlook.com?subject=网站收录申请&body=网站名称：%0A网站链接：%0A网站描述："  # 左侧导航栏的"网站提交"
+    about         = "https://my.feishu.cn/docx/LbtmdyLmeoC1oZx1R57c2o6snEf?from=from_copylink"	# 左侧导航栏的"关于导航"页面(./about)
+    repository    = "https://github.com/Bevis23/nav-webstack"  
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "欢迎来到宓翊导航"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = true					# 默认展开左侧边导航栏
